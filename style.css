@@ -1,0 +1,23 @@
+.body{
+  background-color: aqua;
+  margin:-0.5%;
+  padding:1.1%
+}
+.footer{
+  background-color: black;
+  width: 7%;
+position: relative;
+left: 600px;
+}
+.feedback{
+  background-color: black;
+  position: relative;
+  left:550px;
+  width:50%;
+}
+.problem{
+  color: white;
+}
+.hello{
+  background-color: skyblue;
+}
